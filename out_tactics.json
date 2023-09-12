@@ -1,0 +1,114 @@
+[
+    {
+        "external_id": "TA0006",
+        "index": 7,
+        "name": "Credential Access",
+        "shortname": "credential-access",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0006"
+    },
+    {
+        "external_id": "TA0002",
+        "index": 3,
+        "name": "Execution",
+        "shortname": "execution",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0002"
+    },
+    {
+        "external_id": "TA0040",
+        "index": 13,
+        "name": "Impact",
+        "shortname": "impact",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0040"
+    },
+    {
+        "external_id": "TA0003",
+        "index": 4,
+        "name": "Persistence",
+        "shortname": "persistence",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0003"
+    },
+    {
+        "external_id": "TA0004",
+        "index": 5,
+        "name": "Privilege Escalation",
+        "shortname": "privilege-escalation",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0004"
+    },
+    {
+        "external_id": "TA0008",
+        "index": 9,
+        "name": "Lateral Movement",
+        "shortname": "lateral-movement",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0008"
+    },
+    {
+        "external_id": "TA0005",
+        "index": 6,
+        "name": "Defense Evasion",
+        "shortname": "defense-evasion",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0005"
+    },
+    {
+        "external_id": "TA0010",
+        "index": 12,
+        "name": "Exfiltration",
+        "shortname": "exfiltration",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0010"
+    },
+    {
+        "external_id": "TA0007",
+        "index": 8,
+        "name": "Discovery",
+        "shortname": "discovery",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0007"
+    },
+    {
+        "external_id": "TA0009",
+        "index": 10,
+        "name": "Collection",
+        "shortname": "collection",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0009"
+    },
+    {
+        "external_id": "TA0042",
+        "index": 1,
+        "name": "Resource Development",
+        "shortname": "resource-development",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0042"
+    },
+    {
+        "external_id": "TA0043",
+        "index": 0,
+        "name": "Reconnaissance",
+        "shortname": "reconnaissance",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0043"
+    },
+    {
+        "external_id": "TA0011",
+        "index": 11,
+        "name": "Command and Control",
+        "shortname": "command-and-control",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0011"
+    },
+    {
+        "external_id": "TA0001",
+        "index": 2,
+        "name": "Initial Access",
+        "shortname": "initial-access",
+        "type": "tactic",
+        "url": "https://attack.mitre.org/tactics/TA0001"
+    }
+]
