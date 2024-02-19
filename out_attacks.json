@@ -1512,6 +1512,14 @@
         "url": "https://attack.mitre.org/techniques/T1098/003"
     },
     {
+        "external_id": "T1098.003",
+        "name": "Additional Cloud Roles",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/003"
+    },
+    {
         "external_id": "T1547.012",
         "name": "Print Processors",
         "parent": "T1547",
@@ -1752,6 +1760,14 @@
         "url": "https://attack.mitre.org/techniques/T1120"
     },
     {
+        "external_id": "T1036.009",
+        "name": "Break Process Trees",
+        "parent": "T1036",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1036/009"
+    },
+    {
         "external_id": "T1590.004",
         "name": "Network Topology",
         "parent": "T1590",
@@ -1814,6 +1830,22 @@
         "phase_name": "collection",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1074/002"
+    },
+    {
+        "external_id": "T1098.006",
+        "name": "Additional Container Cluster Roles",
+        "parent": "T1098",
+        "phase_name": "persistence",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/006"
+    },
+    {
+        "external_id": "T1098.006",
+        "name": "Additional Container Cluster Roles",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/006"
     },
     {
         "external_id": "T1053",
@@ -2256,6 +2288,22 @@
         "url": "https://attack.mitre.org/techniques/T1037/002"
     },
     {
+        "external_id": "T1659",
+        "name": "Content Injection",
+        "parent": "False",
+        "phase_name": "initial-access",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1659"
+    },
+    {
+        "external_id": "T1659",
+        "name": "Content Injection",
+        "parent": "False",
+        "phase_name": "command-and-control",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1659"
+    },
+    {
         "external_id": "T1055",
         "name": "Process Injection",
         "parent": "False",
@@ -2270,6 +2318,14 @@
         "phase_name": "privilege-escalation",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1055"
+    },
+    {
+        "external_id": "T1567.004",
+        "name": "Exfiltration Over Webhook",
+        "parent": "T1567",
+        "phase_name": "exfiltration",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1567/004"
     },
     {
         "external_id": "T1139",
@@ -2302,6 +2358,14 @@
         "phase_name": "command-and-control",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1205"
+    },
+    {
+        "external_id": "T1021.008",
+        "name": "Direct Cloud VM Connections",
+        "parent": "T1021",
+        "phase_name": "lateral-movement",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1021/008"
     },
     {
         "external_id": "T1503",
@@ -2382,6 +2446,22 @@
         "phase_name": "defense-evasion",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1620"
+    },
+    {
+        "external_id": "T1016.002",
+        "name": "Wi-Fi Discovery",
+        "parent": "T1016",
+        "phase_name": "discovery",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1016/002"
+    },
+    {
+        "external_id": "T1564.011",
+        "name": "Ignore Process Interrupts",
+        "parent": "T1564",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1564/011"
     },
     {
         "external_id": "T1611",
@@ -2790,6 +2870,14 @@
         "phase_name": "reconnaissance",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1596"
+    },
+    {
+        "external_id": "T1562.012",
+        "name": "Disable or Modify Linux Audit System",
+        "parent": "T1562",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1562/012"
     },
     {
         "external_id": "T1207",
@@ -3456,6 +3544,14 @@
         "url": "https://attack.mitre.org/techniques/T1054"
     },
     {
+        "external_id": "T1598.004",
+        "name": "Spearphishing Voice",
+        "parent": "T1598",
+        "phase_name": "reconnaissance",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1598/004"
+    },
+    {
         "external_id": "T1108",
         "name": "Redundant Access",
         "parent": "False",
@@ -3492,6 +3588,14 @@
         "name": "SSH Authorized Keys",
         "parent": "T1098",
         "phase_name": "persistence",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/004"
+    },
+    {
+        "external_id": "T1098.004",
+        "name": "SSH Authorized Keys",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1098/004"
     },
@@ -3574,6 +3678,22 @@
         "phase_name": "reconnaissance",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1591/002"
+    },
+    {
+        "external_id": "T1548.005",
+        "name": "Temporary Elevated Cloud Access",
+        "parent": "T1548",
+        "phase_name": "privilege-escalation",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1548/005"
+    },
+    {
+        "external_id": "T1548.005",
+        "name": "Temporary Elevated Cloud Access",
+        "parent": "T1548",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1548/005"
     },
     {
         "external_id": "T1125",
@@ -4056,6 +4176,14 @@
         "url": "https://attack.mitre.org/techniques/T1098/005"
     },
     {
+        "external_id": "T1098.005",
+        "name": "Device Registration",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/005"
+    },
+    {
         "external_id": "T1049",
         "name": "System Network Connections Discovery",
         "parent": "False",
@@ -4304,6 +4432,14 @@
         "url": "https://attack.mitre.org/techniques/T1104"
     },
     {
+        "external_id": "T1657",
+        "name": "Financial Theft",
+        "parent": "False",
+        "phase_name": "impact",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1657"
+    },
+    {
         "external_id": "T1480",
         "name": "Execution Guardrails",
         "parent": "False",
@@ -4326,6 +4462,14 @@
         "phase_name": "credential-access",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1606/001"
+    },
+    {
+        "external_id": "T1654",
+        "name": "Log Enumeration",
+        "parent": "False",
+        "phase_name": "discovery",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1654"
     },
     {
         "external_id": "T1134.001",
@@ -4384,6 +4528,14 @@
         "url": "https://attack.mitre.org/techniques/T1205/001"
     },
     {
+        "external_id": "T1027.012",
+        "name": "LNK Icon Smuggling",
+        "parent": "T1027",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1027/012"
+    },
+    {
         "external_id": "T1583.006",
         "name": "Web Services",
         "parent": "T1583",
@@ -4412,6 +4564,14 @@
         "name": "Additional Cloud Credentials",
         "parent": "T1098",
         "phase_name": "persistence",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/001"
+    },
+    {
+        "external_id": "T1098.001",
+        "name": "Additional Cloud Credentials",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1098/001"
     },
@@ -4972,6 +5132,14 @@
         "name": "Account Manipulation",
         "parent": "False",
         "phase_name": "persistence",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098"
+    },
+    {
+        "external_id": "T1098",
+        "name": "Account Manipulation",
+        "parent": "False",
+        "phase_name": "privilege-escalation",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1098"
     },
@@ -5712,6 +5880,14 @@
         "url": "https://attack.mitre.org/techniques/T1056"
     },
     {
+        "external_id": "T1566.004",
+        "name": "Spearphishing Voice",
+        "parent": "T1566",
+        "phase_name": "initial-access",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1566/004"
+    },
+    {
         "external_id": "T1587.004",
         "name": "Exploits",
         "parent": "T1587",
@@ -6200,6 +6376,22 @@
         "url": "https://attack.mitre.org/techniques/T1127/001"
     },
     {
+        "external_id": "T1656",
+        "name": "Impersonation",
+        "parent": "False",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1656"
+    },
+    {
+        "external_id": "T1578.005",
+        "name": "Modify Cloud Compute Configurations",
+        "parent": "T1578",
+        "phase_name": "defense-evasion",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1578/005"
+    },
+    {
         "external_id": "T1088",
         "name": "Bypass User Account Control",
         "parent": "False",
@@ -6249,7 +6441,7 @@
     },
     {
         "external_id": "T1562.008",
-        "name": "Disable Cloud Logs",
+        "name": "Disable or Modify Cloud Logs",
         "parent": "T1562",
         "phase_name": "defense-evasion",
         "type": "attack",
@@ -6390,6 +6582,14 @@
         "phase_name": "defense-evasion",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1500"
+    },
+    {
+        "external_id": "T1555.006",
+        "name": "Cloud Secrets Management Stores",
+        "parent": "T1555",
+        "phase_name": "credential-access",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1555/006"
     },
     {
         "external_id": "T1213.003",
@@ -7104,6 +7304,14 @@
         "url": "https://attack.mitre.org/techniques/T1098/002"
     },
     {
+        "external_id": "T1098.002",
+        "name": "Additional Email Delegate Permissions",
+        "parent": "T1098",
+        "phase_name": "privilege-escalation",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1098/002"
+    },
+    {
         "external_id": "T1588.003",
         "name": "Code Signing Certificates",
         "parent": "T1588",
@@ -7166,6 +7374,14 @@
         "phase_name": "privilege-escalation",
         "type": "attack",
         "url": "https://attack.mitre.org/techniques/T1055/008"
+    },
+    {
+        "external_id": "T1653",
+        "name": "Power Settings",
+        "parent": "False",
+        "phase_name": "persistence",
+        "type": "attack",
+        "url": "https://attack.mitre.org/techniques/T1653"
     },
     {
         "external_id": "T1027.007",
